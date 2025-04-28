@@ -1,0 +1,4 @@
+# Objektorientierung in Python - OOP Masterclass - From Newbie to Expert | OOP Komplettkurs
+# Coding Crashkurs
+# https://www.youtube.com/watch?v=tVNsC6tDJu8
+
