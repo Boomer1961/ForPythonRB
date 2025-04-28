@@ -1,0 +1,1 @@
+print("Ich __init__.py werde in einem package ausgeführt.")
