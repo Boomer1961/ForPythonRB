@@ -1,0 +1,5 @@
+#
+#   10 NEWBIE FEHLER in Python - Tipps und Tricks für besseres Python
+#   CODING  CRASHCOURSE 
+#   https://www.youtube.com/watch?v=ZESNrdmmuj4
+#
